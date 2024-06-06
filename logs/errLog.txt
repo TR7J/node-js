@@ -1,0 +1,2 @@
+20240603	18:18:53	7182b3d7-bc91-4b67-85dc-3e60214608c7	ReferenceError: origi is not defined
+20240603	18:19:17	45de3cfb-4e19-4535-bb87-bd98afc82ee7	Error: Not allowed by CORS
